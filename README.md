@@ -1,8 +1,8 @@
-# Advance Regression House Pricinging Prediction
+# Advance Regression House Pricing Prediction
 
 
 # Project Name
-> Advance Regression House Pricinging Prediction
+> Advance Regression House Pricing Prediction
 
 <!-- You can include any other section that is pertinent to your problem -->
 
